@@ -4,7 +4,7 @@ Open the folder in Visual Studio Code, and via Terminal command:
 
 ### 1 `npm install`
 
-Installs node_modules.\
+Installs /node_modules
 
 ### 2 `npm start`
 
