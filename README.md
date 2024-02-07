@@ -8,11 +8,11 @@ Currently the web app is still in the its very early stage, and in a drafting ph
 
 Open the folder in Visual Studio Code, and via Terminal command:
 
-### 1 `npm install`
+### 1. `npm install`
 
 It should install /node_modules and neccessary files.
 
-### 2 `npm start`
+### 2. `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
