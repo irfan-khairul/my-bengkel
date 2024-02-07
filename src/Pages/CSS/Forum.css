@@ -1,0 +1,20 @@
+.forum{
+    display: flex;
+    margin: 0px 170px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 0px 100px;
+}
+
+.forum h2{
+    margin-top: 30px;
+    font-size: 34px;
+}
+
+.forum p{
+    color: #383838;
+    font-size: 20px;
+    font-weight: 500;
+}
