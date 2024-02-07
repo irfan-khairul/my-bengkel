@@ -1,3 +1,9 @@
+# About
+This web application aims to provide a seamless experience on searching for vehicle workshop that suits to specific needs. 
+
+# Progression
+Currently the web app is still in the its very early stage, and in a drafting phase. 
+
 # Instructions
 
 Open the folder in Visual Studio Code, and via Terminal command:
