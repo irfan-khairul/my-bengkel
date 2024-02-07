@@ -5,8 +5,6 @@ Open the folder in Visual Studio Code, and via Terminal command:
 ### 1 `npm install`
 
 Installs node_modules.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 
 ### 2 `npm start`
 
