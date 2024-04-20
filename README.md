@@ -2,7 +2,7 @@
 This web application aims to provide a seamless experience on searching for vehicle workshop that suits to specific needs. 
 
 # Progress
-Currently the web app is still in the its very early stage, and in a drafting phase. But feel free to look around :)
+Currently the web app is still in the its very early stage, and in a drafting phase. But feel free to look around.
 
 # Instructions
 
